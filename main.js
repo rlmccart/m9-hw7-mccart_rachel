@@ -19,3 +19,13 @@ var showMenu = function() {
 
 locationButton.onclick = showMenu;
 
+var grid = document.getElementsByClassName('col-md-4');
+
+var hoverOpacity = function() {
+    this.classList.toggle('opacity'); 
+}; 
+
+for (i=0; i < grid.length; i++) {
+    grid[i].addEventListener('mouseenter', hoverOpacity);
+    grid[i].addEventListener('mouseleave', hoverOpacity); 
+}; 

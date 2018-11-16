@@ -190,6 +190,10 @@ li {
 	color: #000000;
     text-decoration: none;
 } */
+.opacity {
+    opacity: .7; 
+    transition: 3s;
+}
 .order-online {
     font-family: 'PT Sans', sans-serif;
     color: #fc713a;

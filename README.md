@@ -1,1 +1,3 @@
 # m9-hw7-mccart_rachel
+
+Second time around was MUCH better. Thank you for a second shot at getting to submit this! Slowed down and rewatched the lectures. Took a while but I think I got most everything to work. The biggest issue I had this time around was getting my Find Location button font to turn white on transition - I can't figure out why it won't work. The only resources used were class lectures and readings (and a lot of coffee). 
