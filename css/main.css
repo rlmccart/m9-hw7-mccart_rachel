@@ -143,6 +143,18 @@ button {
     color: #ffffff;
     transition: 1s;
 }
+#menu show-div {
+    display: none;
+}
+li {
+    font-family: 'PT Sans', sans-serif;
+    color: #ffffff;
+    list-style: none;
+    padding-left: 95px;
+}
+.hide-div {
+    display: none;
+}
 /* #order {
     font-family: 'PT Sans', sans-serif;
     color: #ffffff;
